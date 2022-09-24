@@ -1,6 +1,7 @@
 ## Certifications
 [Getting Started With Enterprise-Grade AI](https://www.credly.com/badges/f172280e-ba7b-47bc-993f-ac6e4e7460b4/public_url)
 
+## Description
 We have used Tableau which is a interactive data visualization software tool. Here we
 have performed the analysis of NFT History Sales
 (https://www.kaggle.com/datasets/mathurinache/nft-history-sales) Dataset found on
@@ -33,7 +34,7 @@ Business Objects.
 Our analysis of NFT sales will provide traders, builders, and collectors gain a competitive edge
 and prevent them from making the wrong decisions and hence losing money.
 
-
+## Analytics
 We have analyzed:
 1) Sales Over the Years
 2) Forecasting for the year 2022
