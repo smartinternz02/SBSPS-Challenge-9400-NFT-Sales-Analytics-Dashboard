@@ -1,5 +1,5 @@
-##Certifications
-
+## Certifications
+[Getting Started With Enterprise-Grade AI](https://www.credly.com/badges/f172280e-ba7b-47bc-993f-ac6e4e7460b4/public_url)
 
 We have used Tableau which is a interactive data visualization software tool. Here we
 have performed the analysis of NFT History Sales
