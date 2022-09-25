@@ -10,7 +10,8 @@
 ## Certifications
 
 [1)Getting Started With Enterprise-Grade AI](https://www.credly.com/badges/f172280e-ba7b-47bc-993f-ac6e4e7460b4/public_url)
-[2)Journey to Cloud: Envisioning Your Solution](https://www.credly.com/badges/800d6d35-1dfa-4e7c-bbee-c1438cd8ab2d/public_url)
+[
+2)Journey to Cloud: Envisioning Your Solution](https://www.credly.com/badges/800d6d35-1dfa-4e7c-bbee-c1438cd8ab2d/public_url)
 
 ## Description
 
