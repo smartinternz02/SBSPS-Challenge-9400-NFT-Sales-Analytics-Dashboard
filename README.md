@@ -15,6 +15,8 @@
 
 [3) Getting Started with Threat Intelligence and Hunting ](https://www.credly.com/badges/9e8c0f64-cc7f-41b2-b2c9-1bc1e5fb1522/public_url)
 
+[4) Deep Learning Fundamentals ](https://www.credly.com/go/2B4yUkRr3GeM4iOOXvHw4Q/public_url)
+
 ## Description
 
 We have used Tableau which is a interactive data visualization software tool. Here we
